@@ -5,9 +5,15 @@ public class Palindrome
     public static void main(String[] args)
     {
         LinkedList<Character> ll=new LinkedList<>();
-        ll.add('m');
-        ll.add('a');
-        ll.add('m');
+        ll.add('9');
+        ll.add('8');
+        ll.add('7');
+        ll.add('6');
+        ll.add('5');
+        ll.add('6');
+        ll.add('7');
+        ll.add('8');
+        ll.add('9');
 
         String s="";
         for(char c : ll)
